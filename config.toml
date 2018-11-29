@@ -1,3 +1,4 @@
 baseURL = "http://foysalahamed.com/"
 languageCode = "en-us"
 title = "Foysal Ahamed | LAZYB0Y"
+theme = "minimo"
