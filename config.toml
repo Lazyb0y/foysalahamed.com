@@ -2,3 +2,13 @@ baseURL = "http://foysalahamed.com/"
 languageCode = "en-us"
 title = "Foysal Ahamed | LAZYB0Y"
 theme = "minimo"
+
+[params.info]
+description = "Software Engineer, TigerIT Bangladesh Limited"
+title404 = "Nothing's here!"
+
+[params.copyright]
+prefix = ""
+holder = "Foysal Ahamed"
+startYear = "2018"
+suffix = ""
