@@ -45,6 +45,9 @@ instagram = "lazyb0yex"
 email = "thisisfoysal@gmail.com"
 linkedin = "foysalahamed"
 
+[blackfriday]
+hrefTargetBlank = true
+
 [languages]
 # edit this block for your own language
 [languages.en]
