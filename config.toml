@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Foysal Ahamed | LAZYB0Y"
 theme = "minimo"
 
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
 [params.info]
 description = "Software Engineer, TigerIT Bangladesh Limited"
 title404 = "Nothing's here!"
@@ -12,3 +15,10 @@ prefix = ""
 holder = "Foysal Ahamed"
 startYear = "2018"
 suffix = ""
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1
