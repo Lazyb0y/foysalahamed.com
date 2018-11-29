@@ -29,6 +29,13 @@ taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
 hideMainMenu = false
 
+[params.sidebar]
+enable = true
+
+[params.widgets]
+header = ["breadcrumbs"]
+sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
+
 [languages]
 # edit this block for your own language
 [languages.en]
