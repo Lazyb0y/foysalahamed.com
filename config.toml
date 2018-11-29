@@ -35,6 +35,15 @@ enable = true
 [params.widgets]
 header = ["breadcrumbs"]
 sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
+footer = ["social_menu"]
+
+[params.social]
+github = "Lazyb0y"
+facebook = "Lazyb0y"
+twitter = "Lazyb0y24"
+instagram = "lazyb0yex"
+email = "thisisfoysal@gmail.com"
+linkedin = "foysalahamed"
 
 [languages]
 # edit this block for your own language
