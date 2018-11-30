@@ -45,6 +45,9 @@ instagram = "lazyb0yex"
 email = "thisisfoysal@gmail.com"
 linkedin = "foysalahamed"
 
+[params.search]
+client = "lunr" # algolia / fuse / lunr
+
 [blackfriday]
 hrefTargetBlank = true
 
