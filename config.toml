@@ -48,6 +48,9 @@ linkedin = "foysalahamed"
 [params.search]
 client = "lunr" # algolia / fuse / lunr
 
+[permalinks]
+page = "/:slug/"
+
 [blackfriday]
 hrefTargetBlank = true
 
