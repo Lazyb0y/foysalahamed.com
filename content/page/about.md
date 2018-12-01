@@ -1,5 +1,6 @@
 ---
 title: About
+slug: about
 date: 2018-11-29T09:00:00+06:00
 lastmod: 2018-11-29T09:00:00+06:00
 description: Who the Fuck am I?!
