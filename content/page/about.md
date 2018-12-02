@@ -9,6 +9,8 @@ weight: -210
 comments: false
 ---
 
+![Me](/images/foysal_ahamed.png)
+
 A university dog, major in computer science. I like to toss all kinds of things, love almost everything.
 
 This site was built in 2018. After more than four years of planning, I finally started this static site. Anyway, this is the place to share what you see and hear.
