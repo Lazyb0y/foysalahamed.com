@@ -5,5 +5,5 @@ menu:
   - sidebar
 weight: -270
 ---
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+> Never trust anyone who has not brought a book with them.
+> — Lemony Snicket
