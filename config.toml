@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Foysal Ahamed | LAZYB0Y"
 theme = "minimo"
 
+enableEmoji = true
+
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
