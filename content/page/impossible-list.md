@@ -26,12 +26,25 @@ If a goal is in **bold**, that means I’m working on it right now.
 4. Visit Nepal _(April 2017)_
 5. Artcell _(January 2013)_
 
+##### Life Goals
+- Find a Wonderful, Amazing, Supportive, All-round Awesome, Superstar Wife
+- Become a Father
+- Raise Two Kids Who Will Accomplish 50% of Their Impossible Lists by the Age of 25
+
 ##### Things I Want to Own
 - Personal Car
 - Two Door Sports Cars
 - Duplex House
 
 ##### Travel Goals
+- Visit all Continents
+  - Africa
+  - Antartica
+  - ~~Asia~~ _(On My Birthday)_
+  - Australia
+  - Europa
+  - North America
+  - South America
 - ~~Visit India~~ _(November 2018)_
   - ~~Kolkata~~ _(November 2018)_
   - ~~Kashmir~~ _(November 2018)_
