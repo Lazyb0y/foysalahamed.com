@@ -48,6 +48,12 @@ linkedin = "foysalahamed"
 [params.search]
 client = "lunr" # algolia / fuse / lunr
 
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
 [permalinks]
 page = "/:slug/"
 
