@@ -10,6 +10,9 @@ defaultContentLanguage = "en"
 description = "Software Engineer, TigerIT Bangladesh Limited"
 title404 = "Nothing's here!"
 
+[params.assets]
+favicon = "favicon.ico"
+
 [params.copyright]
 prefix = ""
 holder = "Foysal Ahamed"
