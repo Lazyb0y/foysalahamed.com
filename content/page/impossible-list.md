@@ -33,7 +33,7 @@ If a goal is in **bold**, that means I’m working on it right now.
 
 ##### Things I Want to Own
 - **Personal Car**
-- Two Door Sports Cars
+- Two Door Sports Car
 - Duplex House
 
 ##### Travel Goals
@@ -50,11 +50,21 @@ If a goal is in **bold**, that means I’m working on it right now.
   - ~~Kashmir~~ _(November 2018)_
 - ~~Visit Nepal~~ _(April 2017)_
 - Visit Australia
+- Visit Bhutan
+- Visit Germany
 
 ##### Concert to Attend
 - Linkin Park
 - ~~Artcell~~ _(January 2013)_
 - Backstreet Boys
+- Bullet for My Valentine
+- Westlife
+- Asking Alexandria
+- Eminem
+- Iron Maiden
+- Dream Theater
+- Evanescence
+- Warfaze
 
 ##### Read Lots of Books!
 - ~~30 Books in 2018~~ _(October 2018)_
