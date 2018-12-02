@@ -1,4 +1,4 @@
----
+﻿---
 title: Impossible List
 date: 2018-11-29T09:00:00+06:00
 lastmod: 2018-11-29T09:00:00+06:00
@@ -38,10 +38,10 @@ If a goal is in **bold**, that means I’m working on it right now.
 - ~~Visit Nepal~~ _(April 2017)_
 - Visit Australia
 
-##### Concert to attend
+##### Concert to Attend
 - Linkin Park
 - ~~Artcell~~ _(January 2013)_
 - Backstreet Boys
 
-##### Read lots of books!
+##### Read Lots of Books!
 - ~~30 Books in 2018~~ _(October 2018)_
