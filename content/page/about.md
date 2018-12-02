@@ -9,7 +9,7 @@ weight: -210
 comments: false
 ---
 
--![Me](/images/foysal_ahamed.png)
+![Me](/images/foysal_ahamed.png)
 
 A university dog, major in computer science. I like to toss all kinds of things, love almost everything.
 
