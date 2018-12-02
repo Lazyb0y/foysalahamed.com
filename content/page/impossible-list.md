@@ -45,3 +45,4 @@ If a goal is in **bold**, that means I’m working on it right now.
 
 ##### Read Lots of Books!
 - ~~30 Books in 2018~~ _(October 2018)_
+- 50 Books in 2019
