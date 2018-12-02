@@ -10,3 +10,12 @@ menu:
 weight: -220
 comments: false
 ---
+> Think about what your true life goals are, and constantly evaluate your progress towards them. In other words, be mindful of your path.
+> — Thomas Frank
+
+You are really limiting yourself if you only want to get a high-paying job and you think about nothing else, then what happens when you graduate, get your dream job, and find yourself in a life situation you really can't stand?
+
+That brings me to my Impossible List. You might think it as a bucket list, and you are wrong. A bucket list doesn't really inspire you to take action right now. It's kind of a list of things you'd like to do and like to be able to look back and say you did before you die :skull:, but the Impossible List is more active, it demands action right now, it demands a plan.
+
+If a goal is in **bold**, that means I’m working on it right now.
+
