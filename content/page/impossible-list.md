@@ -32,7 +32,7 @@ If a goal is in **bold**, that means I’m working on it right now.
 - Raise Two Kids Who Will Accomplish 50% of Their Impossible Lists by the Age of 25
 
 ##### Things I Want to Own
-- Personal Car
+- **Personal Car**
 - Two Door Sports Cars
 - Duplex House
 
