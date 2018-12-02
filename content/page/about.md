@@ -23,6 +23,7 @@ This site was built in 2018. After more than four years of planning, I finally s
 Also, welcome to these places to play happily with the bloggers:
 
 * Steam: [@Lazyb0yEX](https://steamcommunity.com/id/Lazyb0yEX/)
+* PUBG MOBILE: **LAZYB0Y**
 
 Love music? Add me:
 
