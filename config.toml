@@ -14,6 +14,7 @@ title404 = "Nothing's here!"
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
+gopher = "images/gopher.png" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
