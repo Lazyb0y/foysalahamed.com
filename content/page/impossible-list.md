@@ -19,3 +19,29 @@ That brings me to my Impossible List. You might think it as a bucket list, and y
 
 If a goal is in **bold**, that means I’m working on it right now.
 
+##### Last 5 Completed Goals
+1. Visit Kolkata _(November 2018)_
+2. Visit Kashmir _(November 2018)_
+3. 30 Books in 2018 _(October 2018)_
+4. Visit Nepal _(April 2017)_
+5. Artcell _(January 2013)_
+
+##### Things I Want to Own
+- Personal Car
+- Two Door Sports Cars
+- Duplex House
+
+##### Travel Goals
+- ~~Visit India~~ _(November 2018)_
+  - ~~Kolkata~~ _(November 2018)_
+  - ~~Kashmir~~ _(November 2018)_
+- ~~Visit Nepal~~ _(April 2017)_
+- Visit Australia
+
+##### Concert to attend
+- Linkin Park
+- ~~Artcell~~ _(January 2013)_
+- Backstreet Boys
+
+##### Read lots of books!
+- ~~30 Books in 2018~~ _(October 2018)_
