@@ -35,6 +35,7 @@ If a goal is in **bold**, that means I’m working on it right now.
 - **Personal Car**
 - Two Door Sports Car
 - Duplex House
+- 1,000 Books
 
 ##### Travel Goals
 - Visit all Continents
@@ -45,13 +46,31 @@ If a goal is in **bold**, that means I’m working on it right now.
   - Europa
   - North America
   - South America
-- ~~Visit India~~ _(November 2018)_
+- ~~Bangladesh~~
+  - ~~Bandarban~~ _(April 2018)_
+  - ~~Tanguar Haor, Sunamganj~~ _(September 2018)_
+  - ~~Cox's Bazar~~ _(June 2018)_
+  - Sundarbans
+- ~~India~~
   - ~~Kolkata~~ _(November 2018)_
   - ~~Kashmir~~ _(November 2018)_
-- ~~Visit Nepal~~ _(April 2017)_
-- Visit Australia
-- Visit Bhutan
-- Visit Germany
+  - Goa
+  - Taj Mahal
+- ~~Nepal~~
+  - ~~Kathmandu~~ _(April 2017)_
+  - Pokhara
+  - Annapurna Circuit
+- Australia
+- Bhutan
+- Germany
+- Thailand
+- China
+  - Great Wall of China
+  - The Forbidden City in Beijing
+  - Giant Pandas in Chengdu
+  - Victoria Harbor in Hong Kong
+- Russia
+  - Trans-Siberian Railway Network
 
 ##### Concert to Attend
 - Linkin Park
@@ -65,6 +84,16 @@ If a goal is in **bold**, that means I’m working on it right now.
 - Dream Theater
 - Evanescence
 - Warfaze
+
+##### Events to Attend
+- San Diego Comic-Con
+- The International, DotA 2
+
+##### Meeting Greetings
+- Bill Gates
+- Avril Lavigne
+- Darren Hayes
+- Jon Kabir (Black)
 
 ##### Read Lots of Books!
 - ~~30 Books in 2018~~ _(October 2018)_
