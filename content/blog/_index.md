@@ -6,3 +6,5 @@ menu:
 weight: -260
 slug: blog
 ---
+
+- [Learning](learning/)
