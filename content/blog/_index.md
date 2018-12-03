@@ -8,3 +8,4 @@ slug: blog
 ---
 
 - [Learning](learning/)
+- [Life](life/)
