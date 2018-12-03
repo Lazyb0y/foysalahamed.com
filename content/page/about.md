@@ -11,7 +11,7 @@ comments: false
 
 ![Me](/images/foysal_ahamed.png)
 
-A university dog, major in computer science. I like to toss all kinds of things, love almost everything.
+A grey worm, major in computer science, software engineer [@Tiger IT Bangladesh Limited](http://www.tigerit.com/). I like to toss all kinds of things, love almost everything.
 
 This site was built in 2018. After more than four years of planning, I finally started this static site. Anyway, this is the place to share what you see and hear.
 
@@ -19,6 +19,7 @@ This site was built in 2018. After more than four years of planning, I finally s
 
 * Facebook: [@Lazyb0y](http://www.facebook.com/Lazyb0y)
 * Instagram: [@lazyb0yex](http://www.instagram.com/lazyb0yex/)
+* LinkedIn: [@foysalahamed](https://www.linkedin.com/in/foysalahamed/)
 * Personal Email: thisisfoysal@gmail.com
 * Official Email: ahamed@tigerit.com
 
