@@ -10,3 +10,4 @@ slug: blog
 - [Learning](learning/)
 - [Life](life/)
 - [Conversations](conversations/)
+- [Random](random/)
