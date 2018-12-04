@@ -15,7 +15,7 @@ comments: false
 toc: false
 draft: false
 ---
-What do aliens think about humans? That's what we find out in **They're Made Out of Meat**
+What do aliens think about humans? That's what we find out in **They're Made Out of Meat**.
 
 **They're Made Out of Meat** is a short story by **Terry Bisson**. It consists entirely of dialogue between two characters.
 
