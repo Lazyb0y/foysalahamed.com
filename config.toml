@@ -4,6 +4,7 @@ title = "Foysal Ahamed | LAZYB0Y"
 theme = "minimo"
 
 googleAnalytics = "UA-130450261-1"
+enableRobotsTXT = true # generate robots.txt
 
 enableEmoji = true
 
