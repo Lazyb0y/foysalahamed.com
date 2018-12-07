@@ -4,7 +4,7 @@ lastmod: 2018-12-03T17:30:00+06:00
 title: Phaser 3 Animation Using Local Json File
 authors: ["foysalahamed"]
 categories:
-  - programming
+  - Programming
 tags:
   - phaser
   - animation

@@ -4,7 +4,7 @@ lastmod: 2018-12-05T17:30:00+06:00
 title: Android Auto Rotation Bug in Unity
 authors: ["foysalahamed"]
 categories:
-  - programming
+  - Programming
 tags:
   - unity
   - c#

@@ -4,7 +4,7 @@ lastmod: 2018-12-04T17:30:00+06:00
 title: They're Made Out of Meat
 authors: ["foysalahamed"]
 categories:
-  - short-stories
+  - Short-stories
 tags:
   - alien
   - short
