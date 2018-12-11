@@ -19,7 +19,7 @@ While just showing the tile is an option, it's just a static image. No matter ho
 
 For this, you need a Sprite Sheet and a [JSON](https://www.json.org/) file which contains your animation data. A sprite sheet is an image that consists of several smaller images (sprites) and/or animations. Combining the small images in one big image improves the game performance, reduces the memory usage and speeds up the startup time of the game. For this tutorial, we will use this image:
 
-![Cross Sprite Sheet](https://i.ibb.co/ZgLRSwc/crosscube.png)
+![Cross Sprite Sheet](/images/blog/crosscube.png)
 
 I used this sprite sheet for my `Tic Tac Toe` game. It has 6 frames to show an animated Cross. To load this sprite sheet, use this code:
 
