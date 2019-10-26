@@ -1,7 +1,7 @@
 ﻿---
 title: Impossible List
 date: 2018-11-29T09:00:00+06:00
-lastmod: 2018-11-29T09:00:00+06:00
+lastmod: 2019-10-29T09:20:00+06:00
 description: It’s Kind of Fun to do the Impossible!
 slug: impossible-list
 menu:
@@ -23,8 +23,8 @@ If a goal is in **bold**, that means I’m working on it right now.
 1. Visit Kolkata _(November 2018)_
 2. Visit Kashmir _(November 2018)_
 3. 30 Books in 2018 _(October 2018)_
-4. Visit Nepal _(April 2017)_
-5. Artcell _(January 2013)_
+4. Visit United Arab Emirates _(April 2019)_
+5. Personal Car _(May 2019)_
 
 ##### Life Goals
 - Find a Wonderful, Amazing, Supportive, All-round Awesome, Superstar Wife
@@ -32,7 +32,7 @@ If a goal is in **bold**, that means I’m working on it right now.
 - Raise Two Kids Who Will Accomplish 50% of Their Impossible Lists by the Age of 25
 
 ##### Things I Want to Own
-- **Personal Car**
+- ~~Personal Car~~ _(May 2019)_
 - Two Door Sports Car
 - Duplex House
 - 1,000 Books
@@ -52,10 +52,15 @@ If a goal is in **bold**, that means I’m working on it right now.
   - ~~Cox's Bazar~~ _(June 2018)_
   - Sundarbans
 - ~~India~~
+  - ~~Siliguri~~ _(August 2019)_
+  - ~~Sikkim~~ _(August 2019)_
   - ~~Kolkata~~ _(November 2018)_
   - ~~Kashmir~~ _(November 2018)_
   - Goa
   - Taj Mahal
+- ~~United Arab Emirates~~
+  - ~~Abu Dhabi~~ _(April 2019)_
+  - ~~Dubai~~ _(April 2019)_
 - ~~Nepal~~
   - ~~Kathmandu~~ _(April 2017)_
   - Pokhara
