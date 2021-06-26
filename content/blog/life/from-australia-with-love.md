@@ -12,6 +12,7 @@ slug: from-australia-with-love
 comments: false
 toc: false
 draft: false
+hidden: true
 ---
 
 Probably the last one from Australia.
